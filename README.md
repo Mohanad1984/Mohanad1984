@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Mohanad1984
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Mohanad
+- 👀 I’m worke in C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 you can reach me under mmt-math@hotmail.com
 
 <!---
 Mohanad1984/Mohanad1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
